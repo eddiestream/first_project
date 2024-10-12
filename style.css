@@ -6,7 +6,7 @@
 
 .ul{display: flex; flex-wrap: row; gap: 25px; margin: 0 100px 0 auto; }
 .list{list-style-type: none;}
-.a, .p{text-decoration: none; color: white; font-size: 18px; color: #e5e7eb; font-weight: initial;}
+a, .p{text-decoration: none; color: white; font-size: 18px; color: #e5e7eb; font-weight: initial;}
 
 .content_one{display: flex; flex-flow: row; margin:0%; padding: 100px; gap: 50px; justify-content: space-around;}
 .mainPic{height: 160px; width:auto; align-self: center;}
