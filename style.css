@@ -2,11 +2,11 @@
 *{font-family: roboto;}
 .first{background-color: #1f2973; color: white;}
 
-.header{display: flex; flex-wrap: row; margin:0 0 0 100px;}
+.header{display: flex; flex-wrap: row; margin:0 0 0 100px; font-weight: 900; font-size: 24px; color: #f9faf8;}
 
 .ul{display: flex; flex-wrap: row; gap: 25px; margin: 0 100px 0 auto; }
 .list{list-style-type: none;}
-a{text-decoration: none; color: white;}
+.a, .p{text-decoration: none; color: white; font-size: 18px; color: #e5e7eb; font-weight: initial;}
 
 .content_one{display: flex; flex-flow: row; margin:0%; padding: 100px; gap: 50px; justify-content: space-around;}
 .mainPic{height: 160px; width:auto; align-self: center;}
