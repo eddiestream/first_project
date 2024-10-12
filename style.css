@@ -1,0 +1,24 @@
+/* first section */
+*{font-family: roboto;}
+.first{background-color: #1f2973; color: white;}
+
+.header{display: flex; flex-wrap: row; margin:0 0 0 100px;}
+
+.ul{display: flex; flex-wrap: row; gap: 25px; margin: 0 100px 0 auto; }
+.list{list-style-type: none;}
+a{text-decoration: none; color: white;}
+
+.content_one{display: flex; flex-flow: row; margin:0%; padding: 100px; gap: 50px; justify-content: space-around;}
+.mainPic{height: 160px; width:auto; align-self: center;}
+.oneB{background-color: #3882f3; border-radius: 5px; border: #3882f3; padding: 3px 20px 3px 20px;}
+p{max-width: 270px;}
+
+
+ 
+
+
+
+
+.img{width:100px; height: auto;}
+
+/* new  */
